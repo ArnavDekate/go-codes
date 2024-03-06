@@ -1,0 +1,25 @@
+18/02/24 : 
+
+Lvalues and rvalues:
+10=a : not allowed
+a=10 : allowed
+
+Lvalue : exp that refers to mem location 
+
+Rvalue : refers to data value that is stored in a mem address
+
+integer value literals
+1) HexaDecimal : 0x or 0x
+2) Octal : 0 , 0o , 0O
+3) Binary : 0b or 0B
+4) decimal : does not start with 0
+
+
+Format specifiers :
+v : default
+d : decimal
+b : binary or base 2
+o : ocatl or base 8
+x : hexadecimal or base 16
+t : boolean or true false 
+s : strings
